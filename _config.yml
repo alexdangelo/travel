@@ -1,25 +1,26 @@
-title: My personal blog - Adam Neilson
+title: Travels - Alex D'Angelo
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Exploring Florida, Argentina, Uruguay, Chile, New Zealand, Australia, Tasmania, and Hawaii.
+  # Write an awesome description for your new site here. You can edit this
+  # line in _config.yml. It will appear in your document head meta (for
+  # Google search results) and in your feed.xml site description.
 permalink: ':title/'
-baseurl: "/adam-blog" # the subpath of your site, e.g. /blog
+baseurl: "/travel" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
-author: Adam Neilson # add your name
-author-pic: adam-face.jpg
-about-author: My name is Adam Neilson. I’m a full-time adventure travel blogger and photographer who’s been exploring the world for over 2 years.
+author: Alex D'Angelo # add your name
+author-pic: # adam-face.jpg
+about-author: My name is Alex D'Angelo. I’m exploring the world.
 
 # Contact links
 email: # Add your Email address
 phone: # Add your Phone number
-website: # Add your website, do not add http://
-linkedin: # Add your Linkedin handle
-github: artemsheludko # Add your Github handle
-twitter: '@artemsheludko_' # Add your Twitter handle
+website: www.alexdangelo.com # Add your website, do not add http://
+linkedin: alexdangelo # Add your Linkedin handle
+github: alexdangelo # Add your Github handle
+twitter: '@alexzdangelo' # Add your Twitter handle
 facebook: # Add your Facebook handle
 instagram: # Add your Instagram handle
 pinterest: # Add your Pinterest handle
@@ -28,10 +29,10 @@ pinterest: # Add your Pinterest handle
 mailchimp: # Add your MailChimp form identifier.
 
 # Disqus
-discus_identifier: mr-brown # Add your discus identifier
+discus_identifier: # mr-brown # Add your discus identifier
 
 # Tracker
-analytics: # Google Analytics
+analytics: UA-10336545-1 #gtm
 
 # Paginate
 paginate: 6
