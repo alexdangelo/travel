@@ -32,7 +32,8 @@ mailchimp: # Add your MailChimp form identifier.
 discus_identifier: # mr-brown # Add your discus identifier
 
 # Tracker
-analytics: UA-10336545-1 #gtm
+analytics:
+gtag: UA-10336545-1 # Google Tag Manager
 
 # Paginate
 paginate: 6
