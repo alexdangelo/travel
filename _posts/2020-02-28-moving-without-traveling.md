@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day -1: Moving without traveling
+title: Day -1 - Moving without traveling
 date: 2020-02-28 14:28:20 +0800
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 #img: post-6.jpg # Add image post (optional)
