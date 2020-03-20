@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Day -1 - Moving without traveling
+title: "Day -1: Moving without traveling"
 date: 2020-02-28 14:28:20 +0800
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+description: We've spent the last week+ packing up the house and moving it into the garage...
 #img: post-6.jpg # Add image post (optional)
-tags: [Blog, Meditation]
+tags: [Blog, Big Trip 2020]
 author: # Add name author (optional)
 ---
 We've spent the last week+ packing up the house and moving it into the garage, leaving the furniture and basics (dishes, towels, etc) behind. The house is being rented fully furnished.
