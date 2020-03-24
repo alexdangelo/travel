@@ -11,8 +11,6 @@ sections:
   label: Posts
   create: all
 upload_dir: assets/upload
-#apublic_path: "{{site.baseurl}}/assets/upload"
-#afront_matter_path: "{{site.baseurl}}/assets/upload"
 public_path: assets/upload
 front_matter_path: assets/upload
 use_front_matter_path: true
