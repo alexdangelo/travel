@@ -18,13 +18,17 @@ layout: default
         </div>
         {% capture named %}{{ site.baseurl }}/assets{% endcapture %}
         Should be "/travel/assets": {{named}}
-        {{"/assets/img/" | prepend: site.baseurl | append : page.img}}
+        <br>
+        Should be: "travel/assets/img/page.img" {{"/assets/img/" | prepend: site.baseurl | append : page.img}}
+        <br>
         Should be "/travel": {{site.baseurl}}
         <br>
         Should be "/travel/assets": {{site.baseurl + "/assets"}}
         <br>
         {{page.content | replace: "assets", named | markdownify}}
+        <br>
         alternate
+        <br>
         {{page.content | replace: "assets", site.baseurl | markdownify}}
         <div class="page-footer">
           <div class="page-tag">
