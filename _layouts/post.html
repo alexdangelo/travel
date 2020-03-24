@@ -5,7 +5,7 @@ layout: default
   {% include header.html %}
   <article class="article-page">
     <div class="page-image">
-      <div class="cover-image" style="background: url({{ site.baseurl | append : page.img}}) center no-repeat; background-size: cover;"></div>
+      <div class="cover-image" style="background: url({{ site.baseurl | append : "/" | append : page.img}}) center no-repeat; background-size: cover;"></div>
     </div>
     <div class="wrapper">
       <div class="page-content">
@@ -13,8 +13,8 @@ layout: default
           <h1 class="page-title">{{page.title}}</h1>
           <div class="page-date"><time datetime="{{page.date}}">{{page.date | date: '%Y, %b %d'}}</time></div>
         </div>
-        {% capture baseAssettPath %}{{ site.baseurl }}/assets{% endcapture %}
-        {{page.content | replace: "/assets", baseAssettPath | markdownify}}
+        {% capture baseassettpath %}{{ site.baseurl }}/assets{% endcapture %}
+        {{page.content | replace: "/assets", baseassettpath | markdownify}}
         <div class="page-footer">
           <div class="page-tag">
             <span>Tags:</span>
