@@ -14,14 +14,16 @@ fields:
 - type: text
   name: description
   label: description
-- type: datetime
-  name: img
-  label: img
 - type: list
   name: tags
   label: tags
 - type: text
   name: author
   label: author
+- name: img
+  type: file
+  config:
+    maxSize: 250
+  label: img
 pages:
 - _posts/test.md
