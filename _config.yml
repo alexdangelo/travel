@@ -1,7 +1,7 @@
 title: Travels - Alex D'Angelo
 email: # your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Exploring Florida, Argentina, Uruguay, Chile, New Zealand, Australia, Tasmania, and Hawaii.
+  Stories from exploring the world.
   # Write an awesome description for your new site here. You can edit this
   # line in _config.yml. It will appear in your document head meta (for
   # Google search results) and in your feed.xml site description.
@@ -35,58 +35,6 @@ discus_identifier: # mr-brown # Add your discus identifier
 # Tracker
 analytics:
 gtag: UA-10336545-1 # Google Tag Manager
-
-# prose.io config
-prose:
-  rooturl: '_posts'
-  media: 'assets/uploads'
-  ignore:
-    - 404.html
-    - LICENSE
-    - feed.xml
-    - _config.yml
-    - /_layouts
-    - /_includes
-    - /css
-    - /img
-    - /js
-  metadata:
-    _posts:
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "post"
-      - name: "title"
-        field:
-          element: "text"
-          label: "Post title"
-          placeholder: "Title"
-          alterable: true
-      - name: "subtitle"
-        field:
-          element: "textarea"
-          label: "Subtitle"
-          placeholder: "A description of your post."
-          alterable: true
-      - name: "date"
-        field:
-          element: "text"
-          label: "Date"
-          help: "Enter date of post."
-          placeholder: "yyyy-mm-dd"
-          alterable: true
-      - name: "image"
-        field:
-          element: "text"
-          label: "Image"
-          help: "Add a thumbnail image to your post."
-          placeholder: "Thumbnail"
-          alterable: true
-      - name: "published"
-        field:
-          element: "checkbox"
-          label: "Publish"
-          help: "Check to publish post, uncheck to hide."  
 
 # Paginate
 paginate: 6
