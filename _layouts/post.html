@@ -25,11 +25,7 @@ layout: default
         <br>
         Should be "/travel/assets": {{site.baseurl + "/assets"}}
         <br>
-        {{page.content | replace: "assets", named | markdownify}}
-        <br>
-        alternate
-        <br>
-        {{page.content | replace: "assets", site.baseurl | markdownify}}
+        {{page.content | replace: "/assets", named | markdownify}}
         <div class="page-footer">
           <div class="page-tag">
             <span>Tags:</span>
