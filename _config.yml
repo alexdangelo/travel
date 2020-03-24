@@ -60,3 +60,10 @@ prose:
     - _config.yml
     - /_layouts
     - /_includes
+  metadata:
+    _posts:
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
