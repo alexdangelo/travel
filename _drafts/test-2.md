@@ -1,0 +1,15 @@
+---
+layout: post
+title: Test 2
+date: 2017-02-06 21:00:00 -0800
+description: ''
+tags: []
+author: ''
+img: assets/upload/ib2-1.jpg
+
+---
+A pic below
+
+![](assets/upload/ibl-thesis.jpg)
+
+Above
