@@ -16,9 +16,13 @@ layout: default
           <h1 class="page-title">{{page.title}}</h1>
           <div class="page-date"><time datetime="{{page.date}}">{{page.date | date: '%Y, %b %d'}}</time></div>
         </div>
-        {{site.baseurl}}
-        {{site.baseurl + "/assets"}}
         {% capture named %}{{ site.baseurl }}/assets{% endcapture %}
+        Should be "/travel/assets": {{named}}
+        {{"/assets/img/" | prepend: site.baseurl | append : page.img}}
+        Should be "/travel": {{site.baseurl}}
+        <br>
+        Should be "/travel/assets": {{site.baseurl + "/assets"}}
+        <br>
         {{page.content | replace: "assets", named | markdownify}}
         alternate
         {{page.content | replace: "assets", site.baseurl | markdownify}}
