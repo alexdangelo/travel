@@ -15,6 +15,11 @@ layout: default
         </div>
         {% capture asset_path2 %}{{ site.baseurl }}/assets{% endcapture %}
         {% assign asset_path = site.baseurl | append: "/assets" %}
+        <br>
+        asset_path2 should be /travel/assets: {{asset_path2}}
+        <br>
+        asset_path should be /travel/assets: {{asset_path}}
+        <br>
         {{page.content | replace: "/assets", asset_path | markdownify}}
         <div class="page-footer">
           <div class="page-tag">
