@@ -11,7 +11,7 @@ sections:
   label: Posts
   create: all
 upload_dir: assets/upload
-public_path: "/assets/upload"
+public_path: "{{site.baseurl}}/assets/upload"
 front_matter_path: "{{site.baseurl}}/assets/upload"
 use_front_matter_path: true
 file_template: ":filename:"
