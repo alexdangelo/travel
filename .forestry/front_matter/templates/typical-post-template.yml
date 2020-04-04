@@ -20,10 +20,9 @@ fields:
 - type: text
   name: author
   label: author
-- name: cover_image
+- name: image
   type: file
   config:
     maxSize: 250
-  label: cover_image
-pages:
-- _posts/test-2.md
+  label: image
+  description: The image that appears as the masthead for the post
