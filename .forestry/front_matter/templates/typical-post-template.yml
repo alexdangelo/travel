@@ -20,10 +20,8 @@ fields:
 - type: text
   name: author
   label: author
-- name: img
+- name: cover_image
   type: file
   config:
     maxSize: 250
-  label: img
-pages:
-- _posts/onward.md
+  label: cover_image
