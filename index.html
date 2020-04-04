@@ -1,11 +1,12 @@
 ---
 layout: home-page
+misc: post.image | replace: "assets" : site.base_assets_url
 ---
 <ol class="post-card-box clearfix">
   {% for post in paginator.posts %}
   <li>
     <div class="post-card">
-      <a href="{{post.url | prepend: site.baseurl}}" class="post-card-image" style="background-image: url( {{ post.image | replace: "assets" : site.base_assets_url}} )">
+      <a href="{{post.url | prepend: site.baseurl}}" class="post-card-image" style="background-image: url( {{ post.image }} )">
       </a>
 
       <div class="post-card-body">
