@@ -1,4 +1,5 @@
 $(function () {
+  $('html').addClass ( 'dom-loaded' );
   // Cache variables for increased performance on devices with slow CPUs.
   var flexContainer = $('div.flex-container')
   var searchBox = $('.search-box')
@@ -6,14 +7,16 @@ $(function () {
   var searchInput = $('#search-input')
 
   // Menu Settings
-  $('.menu-icon, .menu-icon-close').click(function (e) {
+  //$('.menu-icon, .menu-icon-close').click(function (e) {
+    $('.menu-icon, .menu-icon-close').on('click', function (e) {
     e.preventDefault()
     e.stopPropagation()
     flexContainer.toggleClass('active')
   })
 
   // Click outside of menu to close it
-  flexContainer.click(function (e) {
+  //flexContainer.click(function (e) {
+    flexContainer.on('click', function (e) {
     if (flexContainer.hasClass('active') && e.target.tagName !== 'A') {
       flexContainer.removeClass('active')
     }
@@ -31,7 +34,8 @@ $(function () {
   })
 
   // Search Settings
-  $('.search-icon').click(function (e) {
+  //$('.search-icon').click(function (e) {
+  $('.search-icon').on('click', function (e) {
     e.preventDefault()
     searchBox.toggleClass('search-active')
     searchInput.focus()
