@@ -31,6 +31,8 @@ Fork the ``master`` branch and delete ``gh-pages`` branch in it. This is importa
 
 GNU General Public License v3.0
 
+Icons from https://fontawesome.com/license
+
 ## Donate
 
 <p>If you like the themes that I create you can become my sponsor on <a href="https://www.patreon.com/artemsheludko" target="_blank">Patreon</a>.
