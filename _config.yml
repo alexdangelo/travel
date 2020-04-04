@@ -7,7 +7,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Stories from exploring the world.
 permalink: ':title/'
 baseurl: "/travel" # the subpath of your site, e.g. /blog
-base_assets_url: "https://www.alexdangelo.com/travel/assets"
+base_assets_url: "" #"https://www.alexdangelo.com/travel/assets"
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
