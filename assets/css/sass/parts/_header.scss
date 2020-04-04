@@ -70,8 +70,6 @@
 .menu-icon-close,
 .search-icon a,
 .search-icon-close {
-  width: 14px;
-  height: 18px;
   cursor: pointer;
   font-size: 18px;
   color: $dark-purple;
@@ -80,4 +78,16 @@
   &:hover {
     opacity: .8;
   }
+}
+
+.menu-icon,
+.menu-icon-close {
+  width: 14px;
+  height: 18px;
+}
+
+.search-icon a,
+.search-icon-close {
+  width: 17px;
+  height: 18px;  
 }
