@@ -6,8 +6,7 @@ email: # your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Stories from exploring the world.
 permalink: ':title/'
-baseurl: "/travel" # the subpath of your site, e.g. /blog
-base_domain_path: "https://www.alexdangelo.com/travel"
+baseurl: "https://www.alexdangelo.com/travel" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
