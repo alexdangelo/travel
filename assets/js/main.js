@@ -23,7 +23,7 @@ $(function () {
   })
 
   // Press Escape key to close menu
-  $(window).keydown(function (e) {
+  $(window).on('keydown', function (e) {
     if (e.key === 'Escape') {
       if (flexContainer.hasClass('active')) {
         flexContainer.removeClass('active')
