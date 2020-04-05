@@ -1166,7 +1166,7 @@ pre code {
 }
 
 .pagination-arrow {
-  text-align: text-top;
+  vertical-align: text-top;
 }
 
 /* = = = = = = = = = = Footer Styles = = = = = = = = = = */
