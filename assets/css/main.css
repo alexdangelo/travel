@@ -1165,8 +1165,7 @@ pre code {
   color: #87314e;
 }
 
-.pagination .pagination-left,
-.pagination .pagination-right {
+.pagination-arrow {
   text-align: text-top;
 }
 
