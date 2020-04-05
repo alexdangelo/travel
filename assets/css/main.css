@@ -1,7 +1,6 @@
 .highlight {
   background-color: #faf9f9;
-  -webkit-border-radius: 3px;
-          border-radius: 3px;
+  border-radius: 3px;
   margin: 0;
 }
 
@@ -9,8 +8,7 @@
   color: #87314e;
   font-weight: 400;
   border: 1px solid #607D8B;
-  -webkit-border-radius: 3px;
-          border-radius: 3px;
+  border-radius: 3px;
   padding: 0.1rem 0.5rem;
 }
 
@@ -439,7 +437,8 @@ abbr[title] {
   /* 1 */
   text-decoration: underline;
   /* 2 */
-  text-decoration: underline dotted;
+  -webkit-text-decoration: underline dotted;
+          text-decoration: underline dotted;
   /* 2 */
 }
 
@@ -823,17 +822,16 @@ pre code {
 
 .flex-container {
   display: -webkit-box;
-  display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-  -webkit-flex-direction: column;
       -ms-flex-direction: column;
           flex-direction: column;
   min-height: 100vh;
   -webkit-transition: -webkit-transform 0.4s cubic-bezier(0.16, 0.68, 0.43, 0.99);
   transition: -webkit-transform 0.4s cubic-bezier(0.16, 0.68, 0.43, 0.99);
+  -o-transition: transform 0.4s cubic-bezier(0.16, 0.68, 0.43, 0.99);
   transition: transform 0.4s cubic-bezier(0.16, 0.68, 0.43, 0.99);
   transition: transform 0.4s cubic-bezier(0.16, 0.68, 0.43, 0.99), -webkit-transform 0.4s cubic-bezier(0.16, 0.68, 0.43, 0.99);
 }
@@ -856,7 +854,6 @@ pre code {
 
 .content {
   -webkit-box-flex: 1;
-  -webkit-flex-grow: 1;
       -ms-flex-positive: 1;
           flex-grow: 1;
 }
@@ -899,15 +896,12 @@ pre code {
 
 .main-header .header-flex {
   display: -webkit-box;
-  display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: justify;
-  -webkit-justify-content: space-between;
       -ms-flex-pack: justify;
           justify-content: space-between;
   -webkit-box-align: center;
-  -webkit-align-items: center;
       -ms-flex-align: center;
           align-items: center;
 }
@@ -981,8 +975,10 @@ pre code {
   font-size: 18px;
   color: #311e3e;
   -webkit-transition: all .4s;
+  -o-transition: all .4s;
   transition: all .4s;
   padding: 10px;
+  padding-left: 0;
 }
 
 .menu-icon:hover,
@@ -1003,6 +999,7 @@ pre code {
   z-index: 100;
   background: #fff;
   -webkit-transition: all .4s ease-in-out;
+  -o-transition: all .4s ease-in-out;
   transition: all .4s ease-in-out;
   -webkit-transform: translate(0, -100%) scale(0, 0);
       -ms-transform: translate(0, -100%) scale(0, 0);
@@ -1076,6 +1073,7 @@ pre code {
   float: left;
   width: 50%;
   -webkit-transition: all .3s;
+  -o-transition: all .3s;
   transition: all .3s;
 }
 
@@ -1167,6 +1165,11 @@ pre code {
   color: #87314e;
 }
 
+.pagination .pagination-left,
+.pagination .pagination-right {
+  text-align: text-top;
+}
+
 /* = = = = = = = = = = Footer Styles = = = = = = = = = = */
 .main-footer {
   padding: 15px 0;
@@ -1199,10 +1202,8 @@ pre code {
   margin-bottom: 100px;
   background-color: #fff;
   padding: 20px;
-  -webkit-border-top-left-radius: 20px;
-          border-top-left-radius: 20px;
-  -webkit-border-top-right-radius: 20px;
-          border-top-right-radius: 20px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
   -webkit-box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.3);
           box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.3);
 }
@@ -1260,6 +1261,7 @@ pre code {
   color: #999999;
   margin-left: 10px;
   font-size: 18px;
+  vertical-align: middle;
 }
 
 .page-footer .page-share a:hover {
@@ -1288,6 +1290,7 @@ pre code {
   margin-left: 0.5%;
   margin-bottom: 0.5%;
   -webkit-transition: all .3s;
+  -o-transition: all .3s;
   transition: all .3s;
 }
 
@@ -1341,18 +1344,15 @@ pre code {
   max-width: 100%;
   margin: 25px 0;
   display: -webkit-box;
-  display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: stretch;
-  -webkit-align-items: stretch;
       -ms-flex-align: stretch;
           align-items: stretch;
 }
 
 .newsletter .newsletter-box .email-input {
   -webkit-box-flex: 1;
-  -webkit-flex-grow: 1;
       -ms-flex-positive: 1;
           flex-grow: 1;
   height: 40px;
@@ -1361,16 +1361,14 @@ pre code {
   max-width: 100%;
   color: #3e3e40;
   border: none;
-  -webkit-border-radius: 2px;
-          border-radius: 2px;
+  border-radius: 2px;
   font-size: 14px;
   outline: none;
 }
 
 .newsletter .newsletter-box .subscribe-btn {
-  -webkit-flex-shrink: 0;
-      -ms-flex-negative: 0;
-          flex-shrink: 0;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
   width: 100px;
   height: 40px;
   font-size: 14px;
@@ -1380,10 +1378,10 @@ pre code {
   vertical-align: baseline;
   cursor: pointer;
   border: none;
-  -webkit-border-radius: 2px;
-          border-radius: 2px;
+  border-radius: 2px;
   outline: none;
   -webkit-transition: all .3s;
+  -o-transition: all .3s;
   transition: all .3s;
 }
 
@@ -1394,15 +1392,12 @@ pre code {
 /* = = = = = = = = = = Author Box Styles = = = = = = = = = = */
 .author-box {
   display: -webkit-box;
-  display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: center;
-  -webkit-justify-content: center;
       -ms-flex-pack: center;
           justify-content: center;
   -webkit-box-align: center;
-  -webkit-align-items: center;
       -ms-flex-align: center;
           align-items: center;
   margin-top: 30px;
@@ -1414,8 +1409,7 @@ pre code {
   width: 120px;
   height: 120px;
   margin-right: 30px;
-  -webkit-border-radius: 100%;
-          border-radius: 100%;
+  border-radius: 100%;
 }
 
 .author-box .author-desc h2 {
@@ -1485,8 +1479,7 @@ pre code {
 .about-header .author-image-container {
   width: 100px;
   height: 100px;
-  -webkit-border-radius: 100%;
-          border-radius: 100%;
+  border-radius: 100%;
   overflow: hidden;
   margin: 0 auto 30px;
 }
@@ -1520,6 +1513,7 @@ pre code {
   text-decoration: none;
   padding: 5px;
   -webkit-transition: all 350ms cubic-bezier(0.13, 0.43, 0.54, 1.82);
+  -o-transition: all 350ms cubic-bezier(0.13, 0.43, 0.54, 1.82);
   transition: all 350ms cubic-bezier(0.13, 0.43, 0.54, 1.82);
 }
 
@@ -1725,6 +1719,7 @@ pre code {
     text-decoration: none;
     padding: 5px;
     -webkit-transition: all 350ms cubic-bezier(0.13, 0.43, 0.54, 1.82);
+    -o-transition: all 350ms cubic-bezier(0.13, 0.43, 0.54, 1.82);
     transition: all 350ms cubic-bezier(0.13, 0.43, 0.54, 1.82);
   }
   .about-body .contact-list li a:hover {
@@ -1735,16 +1730,13 @@ pre code {
   }
   .author-box {
     display: -webkit-box;
-    display: -webkit-flex;
     display: -ms-flexbox;
     display: flex;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-    -webkit-flex-direction: column;
         -ms-flex-direction: column;
             flex-direction: column;
     -webkit-box-align: center;
-    -webkit-align-items: center;
         -ms-flex-align: center;
             align-items: center;
     text-align: center;
