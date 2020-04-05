@@ -1,8 +1,8 @@
 <div class="pagination clearfix">
   {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="previous"><span class="pagination-left"></span>{% include fa-angle-left-solid.svg %}</span> Previous</a>
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="previous"><span class="pagination-arrow"></span>{% include fa-angle-left-solid.svg %}</span> Previous</a>
   {% endif %}
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="next">Next <span class="pagination-right">{% include fa-angle-right-solid.svg %}</span></a>
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="next">Next <span class="pagination-arrow">{% include fa-angle-right-solid.svg %}</span></a>
   {% endif %}
 </div>
