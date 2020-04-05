@@ -16,19 +16,9 @@ gulp.task('jekyll-build', function (done) {
 });
 
 // Rebuild Jekyll and page reload
-gulp.task('jekyll-rebuild', ['jekyll-build'], function () {
+gulp.task('jekyll-rebuild', gulp.series('jekyll-build', function () {
     browserSync.reload();
-});
-
-// Wait for jekyll-build, then launch the Server
-gulp.task('browser-sync', ['sass', 'img', 'jekyll-build'], function() {
-    browserSync({
-        server: {
-            baseDir: '_site'
-        },
-        notify: false
-    });
-});
+}));
 
 // Compile files
 gulp.task('sass', function () {
@@ -37,7 +27,7 @@ gulp.task('sass', function () {
             outputStyle: 'expanded',
             onError: browserSync.notify
         }))
-        .pipe(prefix(['last 5 versions', '> 3%'], { cascade: true }))
+        .pipe(prefix(['last 3 versions'], { cascade: true }))
         .pipe(gulp.dest('_site/assets/css'))
         .pipe(browserSync.reload({stream:true}))
         .pipe(gulp.dest('assets/css'));
@@ -56,13 +46,23 @@ gulp.task('img', function() {
     .pipe(browserSync.reload({stream:true}));
 });
 
+// Wait for jekyll-build, then launch the Server
+gulp.task('browser-sync', gulp.series(gulp.parallel('sass', 'img', 'jekyll-build'), function() {
+    browserSync({
+        server: {
+            baseDir: '_site'
+        },
+        notify: false
+    });
+}));
+
 // Watch scss, html, img files
-gulp.task('watch', function () {
-    gulp.watch('assets/css/sass/**/*.scss', ['sass']);
-    gulp.watch('assets/js/**/*.js', ['jekyll-rebuild']);
-    gulp.watch('assets/img/**/*', ['img']);
-    gulp.watch(['*.html', '_layouts/*.html', '_includes/*.html', '_pages/*.html', '_posts/*'], ['jekyll-rebuild']);
-});
+// gulp.task('watch', function () {
+//     gulp.watch('assets/css/sass/**/*.scss', ['sass']);
+//     gulp.watch('assets/js/**/*.js', ['jekyll-rebuild']);
+//     gulp.watch('assets/img/**/*', ['img']);
+//     gulp.watch(['*.html', '_layouts/*.html', '_includes/*.html', '_pages/*.html', '_posts/*'], ['jekyll-rebuild']);
+// });
 
 //  Default task
-gulp.task('default', ['browser-sync', 'watch']);
+//gulp.task('default', gulp.parallel('browser-sync', 'watch'));
