@@ -2,7 +2,8 @@
 layout: post
 title: Seattle -> Orlando
 date: 2020-02-29 13:00:00 -0800
-description: ''
+description: Little Kid was doing everything he could to prevent us from walking down
+  the aisle to our seats on the airplane.
 tags:
 - Blog
 - Big Trip 2020
