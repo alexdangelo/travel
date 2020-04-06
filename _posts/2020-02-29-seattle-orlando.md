@@ -8,7 +8,7 @@ tags:
 - Blog
 - Big Trip 2020
 author: ''
-image: https://www.alexdangelo.com/travel/assets/uploads/2020-02-29-seattle-orlando-airplane-luggage.png
+image: https://www.alexdangelo.com/travel/assets/uploads/2020-02-29-seattle-orlando-airplane-luggage.jpg
 
 ---
 Little Kid was doing everything he could to prevent us from walking down the aisle to our seats on the airplane.
