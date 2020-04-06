@@ -4,7 +4,6 @@ title: Seattle -> Orlando
 date: 2020-02-29 13:00:00 -0800
 description: ''
 tags:
-- ''
 - Blog
 - Big Trip 2020
 author: ''
