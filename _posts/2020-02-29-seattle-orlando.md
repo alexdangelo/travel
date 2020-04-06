@@ -11,9 +11,9 @@ author: ''
 image: https://www.alexdangelo.com/travel/assets/uploads/2020-02-29-seattle-orlando-airplane-luggage.png
 
 ---
-Little Kid was doing everything he could to prevent us from walking down the aisle to our seats on the airplane. 
+Little Kid was doing everything he could to prevent us from walking down the aisle to our seats on the airplane.
 
-Literally standing in the aisle and pushing the three of us back towards the front of the airplane. And after about 10 rows of nudging him forward, I couldn't get him to budge anymore, especially since I was carrying two heavy carryons + a backpack. 
+Literally standing in the aisle and pushing the three of us back towards the front of the airplane. And after about 10 rows of nudging him forward, I couldn't get him to budge anymore, especially since I was carrying two heavy carryons + a backpack.
 
 Little Kid was hungry and wanted food immediately. And had been up since early in the morning and was tired. The irony is that when we eventually got him to our seats, he had a few cheese bites, then rejected the actual food we got him because he wasn't hungry.
 
@@ -31,9 +31,9 @@ We made it to our Airbnb!
 
 By Taxi!
 
-Because the rental car place was out of cars. 
+Because the rental car place was out of cars.
 
-Which we discovered at midnight. 
+Which we discovered at midnight.
 
 After waiting for a half-hour at baggage for our stroller to not show up (remember, it's in Dallas).
 
