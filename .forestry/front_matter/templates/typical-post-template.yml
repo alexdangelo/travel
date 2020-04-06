@@ -28,4 +28,5 @@ fields:
   description: The image that appears as the masthead for the post
 pages:
 - _posts/disney-s-hollywood-studios-day-1.md
+- _posts/magic-kingdom-day-2.md
 - _posts/seattle-orlando.md
