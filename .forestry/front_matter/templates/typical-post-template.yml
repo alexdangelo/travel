@@ -27,4 +27,5 @@ fields:
   label: image
   description: The image that appears as the masthead for the post
 pages:
+- _posts/disney-s-hollywood-studios-day-1.md
 - _posts/seattle-orlando.md
