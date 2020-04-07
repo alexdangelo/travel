@@ -26,3 +26,5 @@ fields:
     maxSize: 250
   label: image
   description: The image that appears as the masthead for the post
+pages:
+- _posts/animal-kingdom-day-4.md
