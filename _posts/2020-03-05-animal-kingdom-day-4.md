@@ -8,7 +8,7 @@ tags:
 - Blog
 - Big Trip 2020
 author: ''
-image: https://www.alexdangelo.com/travel/assets/uploads/2020-03-04-animal-kingdom-river-of-lights.jpg
+image: ''
 
 ---
 We're exhausted! So glad that tomorrow is a lazy day.
