@@ -4,8 +4,8 @@ title: Magic Kingdom (Day 2)
 date: 2020-03-03 13:03:00 -0800
 description: We were escorted out through the backstage area...
 tags:
-- Big Trip 2020
 - Blog
+- Big Trip 2020
 author: ''
 image: https://www.alexdangelo.com/travel/assets/uploads/2020-03-03-disney-magic-kingdom-space-mountain-hawaiian-shirt-print.JPG
 

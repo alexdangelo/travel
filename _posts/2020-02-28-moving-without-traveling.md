@@ -4,7 +4,9 @@ title: "Day -1: Moving without traveling"
 date: 2020-02-28 14:28:20 -0800
 description: We've spent the last week+ packing up the house and moving it into the garage...
 image: https://www.alexdangelo.com/travel/assets/uploads/2020-02-28-moving-without-traveling.jpg # Add image post (optional)
-tags: [Blog, Big Trip 2020]
+tags:
+- Blog
+- Big Trip 2020
 author: # Add name author (optional)
 ---
 We've spent the last week+ packing up the house and moving it into the garage, leaving the furniture and basics (dishes, towels, etc) behind. The house is being rented fully furnished.
