@@ -7,7 +7,7 @@ tags:
 - Blog
 - Big Trip 2020
 author: ''
-image: https://www.alexdangelo.com/travel/assets/uploads/2020-03-12-florida-map.png
+image: https://www.alexdangelo.com/travel/assets/uploads/2020-03-12-florida-map-1.png
 
 ---
 Our trip is being decided for us. 
