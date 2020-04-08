@@ -4,7 +4,7 @@ $(function () {
   var flexContainer = $('div.flex-container')
   var searchBox = $('.search-box')
   var searchClose = $('.search-icon-close')
-  var searchInput = $('#search-input')
+  var searchInput = document.getElementById('search-input');
 
   // Menu Settings
     $('.menu-icon, .menu-icon-close').on('click', function (e) {
