@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Pool > Epcot
-date: 2020-03-11 13:11:00 -0700
+title: The allure of the pool over Epcot
+date: 2020-03-11T20:11:00.000+00:00
 description: Big Kid was so excited to go swimming in the pool that they wanted to
   leave Epcot in the afternoon.
 tags:
