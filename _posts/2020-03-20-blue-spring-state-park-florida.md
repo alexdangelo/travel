@@ -14,7 +14,9 @@ image: https://www.alexdangelo.com/travel/assets/uploads/2020-03-20-blue-spring-
 
 ## [Blue Spring State Park](https://www.floridastateparks.org/parks-and-trails/blue-spring-state-park)
 
-Manatees come to the spring _Big Kid leave Little Kid alone_ in the wintertime but _Little Kid stop pinching Big Kid_ have already left for the season. We can see lots of fish _Big Kid stop touching Little Kid_ through the crystal-clear water, including catfish and [gar](https://en.wikipedia.org/wiki/Gar) (a very long fish with a long pointy snout). _Little Kid stop attacking Big Kid!_ 
+(or: _Too many days are like this_)
+
+Manatees come to the spring _Big Kid leave Little Kid alone_ in the wintertime but _Little Kid stop pinching Big Kid_ have already left for the season. We can see lots of fish _Big Kid stop touching Little Kid_ through the crystal-clear water, including catfish and [gar](https://en.wikipedia.org/wiki/Gar) (a very long fish with a long pointy snout). _Little Kid stop attacking Big Kid!_
 
 ![](https://www.alexdangelo.com/travel/assets/uploads/2020-03-20-blue-spring-state-park-water.jpg)
 
