@@ -8,8 +8,7 @@ tags:
 - Blog
 - Big Trip 2020
 author: ''
-image: https://www.alexdangelo.com/travel/assets/uploads/2020-03-18-algebra-graph-homework-cereal-box
-  IMG_1185.jpg
+image: https://www.alexdangelo.com/travel/assets/uploads/2020-03-18-algebra-graph-homework-cereal-box.jpg
 
 ---
 "I don't want to do school!". Both Big Kid and Little Kid are resistant. But we set a time and eventually got them to sit down. I got Big Kid engaged by teasing the problem of "how do we draw a curve (parabola) with math?" and then scaled it back to "how do we use math to draw a line?" We learned about variables, truth tables, and how constants shift a line around. 
