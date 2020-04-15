@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Road Trip Home
-date: 2020-03-19 15:19:00 -0700
+date: 2020-03-19T22:19:00.000+00:00
 description: We're taking a road trip! To our home in the Pacific Northwest!
 tags:
 - Blog
 - Big Trip 2020
 author: ''
-image: https://www.alexdangelo.com/travel/assets/uploads/2020-03-19-road-trip-home.jpg
+image: https://www.alexdangelo.com/travel/assets/uploads/2020-03-19-road-trip-home-potential-route.png
 
 ---
 Let's try this again: 
