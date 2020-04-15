@@ -7,7 +7,7 @@ tags:
 - Blog
 - Big Trip 2020
 author: ''
-image: ''
+image: https://www.alexdangelo.com/travel/assets/uploads/2020-03-19-road-trip-home.jpg
 
 ---
 Let's try this again: 
