@@ -22,7 +22,7 @@ We'll keep being flexible especially as the world changes due to coronavirus / C
 
 We're looking into driving west through Texas to New Mexico, then north through Albuquerque and Santa Fe, then north through Utah+Idaho and Wyoming (for Yellowstone) and then west to Seattle. All completely tentative at this point but it hits a lot of amazing national parks and sights along the way, and these tend to be harder for us to get to than places on the West Coast.
 
-Key to map
+![](https://www.alexdangelo.com/travel/assets/uploads/2020-03-19-road-trip-home-potential-route.png)Key to map
 
 * Fuchsia: confirmed places we're staying
 * Blue: cities/towns to possibly pass through
