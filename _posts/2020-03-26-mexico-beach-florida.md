@@ -8,8 +8,7 @@ tags:
 - Blog
 - Big Trip 2020
 author: ''
-image: https://www.alexdangelo.com/travel/assets/uploads/2020-03-26-mexico-beach-florida-dunes
-  IMG_1540.jpg
+image: https://www.alexdangelo.com/travel/assets/uploads/2020-03-26-mexico-beach-florida-dunes.jpg
 
 ---
 We went to the beach today, right on the Gulf of Mexico. This is a shocking thing to say in the time of coronavirus. [Mexico Beach](https://en.wikipedia.org/wiki/Mexico_Beach%2C_Florida) also happens to be the only beach open in Florida. There were few people there, we easily had 30 feet on either side of us away from others. So we went. I'm told pre-hurricane it gets PACKED with people, but many businesses were destroyed and the housing is still being worked on, so there aren't many people these days.
