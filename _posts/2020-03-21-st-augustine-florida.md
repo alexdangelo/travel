@@ -1,7 +1,7 @@
 ---
 layout: post
 title: St. Augustine, Florida
-date: 2020-03-21 15:21:00 -0700
+date: 2020-03-21T22:21:00.000+00:00
 description: St. Augustine is a colonial town in Florida
 tags:
 - Blog
@@ -16,6 +16,7 @@ Normally this must be a super crowded place, there's an enormous parking garage 
 
 ![](https://www.alexdangelo.com/travel/assets/uploads/2020-03-21-st-augustine-flagler-college.jpg)
 
+![](https://www.alexdangelo.com/travel/assets/uploads/2020-03-21-st-augustine-building.jpg)
+
 ![](https://www.alexdangelo.com/travel/assets/uploads/2020-03-21-st-augustine-building-castle.jpg)
 
-![](https://www.alexdangelo.com/travel/assets/uploads/2020-03-21-st-augustine-building.jpg)
