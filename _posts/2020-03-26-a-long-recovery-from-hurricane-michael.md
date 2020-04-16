@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A long recovery from Hurricane Michael
-date: 2020-03-26 15:26:00 -0700
+date: 2020-03-26 15:28:00 -0700
 description: Panama City, Florida and the surrounding region is still recovering from
   Hurricane Michael
 tags:
