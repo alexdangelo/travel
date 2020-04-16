@@ -8,7 +8,7 @@ tags:
 - Blog
 - Big Trip 2020
 author: ''
-image: ''
+image: https://www.alexdangelo.com/travel/assets/uploads/2020-03-26-submerged-boat-panama-city-florida.jpg
 
 ---
 Panama City, Florida and the surrounding region is still recovering from \[Hurricane Michael\]([https://en.wikipedia.org/wiki/Hurricane_Michael](https://en.wikipedia.org/wiki/Hurricane_Michael "https://en.wikipedia.org/wiki/Hurricane_Michael")) came through in Oct 2018 (about 1.5 years ago). It was technically really, really big (as in top-4 hurricanes in Florida) and the region is still recovering.
