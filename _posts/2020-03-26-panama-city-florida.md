@@ -14,7 +14,7 @@ We're stuck out in the bayou. The propeller won't budge. Reversing it only makes
 
 ![](https://www.alexdangelo.com/travel/assets/uploads/2020-03-26 pedal-boat-massalina-harbor.jpg)
 
-We're in Panama City, Florida for a short stay on a boat docked in the harbor.
+We're in Panama City, Florida. We're staying on a boat docked in the harbor of a bayou which connects to the Gulf of Mexico. It has two bedrooms. One about 10'x10', pretty good size, and the other is much smaller but had two small beds. It's like being in a rustic RV, everything is made out of wood but is also well-used and in different states of disrepair. But I think what's you'd expected from being on a boat.
 
 ![](https://www.alexdangelo.com/travel/assets/uploads/2020-03-26-panama-city-florida-boat-stateroom.jpg)
 
