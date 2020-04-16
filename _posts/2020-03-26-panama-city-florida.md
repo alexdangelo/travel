@@ -2,7 +2,7 @@
 layout: post
 title: Panama City, Florida
 date: 2020-03-26 15:26:00 -0700
-description: We're stuck out in the bayou.
+description: We're stuck out in the bayou...
 tags:
 - Blog
 - Big Trip 2020
@@ -17,13 +17,3 @@ We're stuck out in the bayou. The propeller won't budge. Reversing it only makes
 We're in Panama City, Florida. We're staying on a boat docked in the harbor of a bayou which connects to the Gulf of Mexico. It has two bedrooms. One about 10'x10', pretty good size, and the other is much smaller but had two small beds. It's like being in a rustic RV, everything is made out of wood but is also well-used and in different states of disrepair. But I think what's you'd expected from being on a boat.
 
 ![](https://www.alexdangelo.com/travel/assets/uploads/2020-03-26-panama-city-florida-boat-stateroom.jpg)
-
-[Hurricane Michael](https://en.wikipedia.org/wiki/Hurricane_Michael) came through about 1.5 years ago. It was technically really, really big (as in top-4 hurricanes in Florida) and the region is still recovering.
-
-There are so many beautiful brand-new up-on-stilts houses along the beach (literally and unfortunately right on the beach).
-
-![](https://www.alexdangelo.com/travel/assets/uploads/2020-03-26-florida-beach-house.jpg)
-
-But in between are many homes and businesses with missing roofs, missing walls, and decaying in place. Many of the very thin and tall pine trees in the nearby forests are broken in half right about 15' high, the rest of the trunk falling over to make a triangle.
-
-Even along the bayou where we're staying, there are a couple mangled docks and half-submerged boats on the shore (and also plenty of pristine boats in the harbor too).
