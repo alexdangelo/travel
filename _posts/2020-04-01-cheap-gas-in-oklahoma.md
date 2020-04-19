@@ -7,7 +7,7 @@ tags:
 - Blog
 - Big Trip 2020
 author: ''
-image: https://www.alexdangelo.com/travel/assets/uploads/2020-04-01-cheap-gas IMG_1720.jpg
+image: https://www.alexdangelo.com/travel/assets/uploads/2020-04-01-cheap-gas.jpg
 
 ---
 $1.19/gal for gas.
