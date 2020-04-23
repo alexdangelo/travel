@@ -10,7 +10,9 @@ author: ''
 image: https://www.alexdangelo.com/travel/assets/uploads/2020-03-28-pickled-eggs-mobile-alabama.jpg
 
 ---
-We're in Mobile, Alabama for the next four days.
+We're in Mobile, Alabama for the next four days. 
+
+Our Airbnb is a little cottage in Mobile, AL, somewhere on the outskirts and near an inlet and a light industrial area. Walking out into the intensely warm humid air is a full-body shock. You can almost go swimming in it.
 
 Our travel plans keep evolving as we drive home to the Pacific Northwest. We're trying to get to Texas next but news updates like this are a little worrisome (even if this doesn't affect us right now):
 
@@ -20,7 +22,7 @@ Our travel plans keep evolving as we drive home to the Pacific Northwest. We're 
 
 Picked up groceries at the local Winn-Dixie supermarket. Not many people inside but it's still a little terrifying to go in due to potential for COVID-19. Perhaps it's this one store, or the chain, but the fresh veggie, etc area was small and poor selection. But it did have entire display stands and endcaps dedicated to seafood boils (think crawdads and other shellfish). Picked up a southern meal as much as I could -- locally made sausage, Cajun dill pickles, Cajun rice mix, greens. And a can of boiled peanuts for later, because you just can't get that at home. Passed on the pickled eggs but only because the jars were enormous and I'm just one person.
 
-Went for a drive around the Mobile historic district, full of old antebellum-style homes (columns, verandas, elevated porches, etc), some immaculate, some in disrepair. The homes and businesses that you might think of when you think of the South, they're here. As well as what I image places in New Orleans may look like (I haven't been there).
+The Mobile historic district is full of old antebellum-style homes (columns, verandas, elevated porches, etc), some immaculate, some in disrepair. The homes and businesses that you might think of when you think of the South, they're here. As well as what I image places in New Orleans may look like (I haven't been there).
 
 ![](https://www.alexdangelo.com/travel/assets/uploads/2020-03-30-historic-downtown-mobile-alabama-collage.jpg)
 
