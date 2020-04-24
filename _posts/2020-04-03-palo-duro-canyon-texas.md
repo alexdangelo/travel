@@ -17,3 +17,5 @@ The morning started so cold that icicles lined the bottom of the car. By the tim
 The canyon is all red craggy walls of sandstone, eroded into both smooth and rough alien shapes. Some walls looked like [dobos cake](https://en.wikipedia.org/wiki/Dobos_torte) -- layer after layer of brown sandstone and then white jasper (we think).
 
 ![](https://www.alexdangelo.com/travel/assets/uploads/2020-04-03-palo-duro-canyon-rock-garden-pano.jpg)
+
+Two days later, went to [Caprock Canyon State Park](https://tpwd.texas.gov/state-parks/caprock-canyons). Actually we didn't. After getting completely ready to go, I double checked the park site. All Texas state parks closed the day to reduce people gathering due to coronavirus / COVID-19. So it goes.
