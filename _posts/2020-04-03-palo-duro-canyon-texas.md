@@ -18,4 +18,4 @@ The canyon is all red craggy walls of sandstone, eroded into both smooth and rou
 
 ![](https://www.alexdangelo.com/travel/assets/uploads/2020-04-03-palo-duro-canyon-rock-garden-pano.jpg)
 
-Two days later, went to [Caprock Canyon State Park](https://tpwd.texas.gov/state-parks/caprock-canyons). Actually we didn't. After getting completely ready to go, I double checked the park site. All Texas state parks closed the day to reduce people gathering due to coronavirus / COVID-19. So it goes.
+(Two days later, went to [Caprock Canyon State Park](https://tpwd.texas.gov/state-parks/caprock-canyons). Actually we didn't. After getting completely ready to go, I double checked the park site. All Texas state parks closed the day to reduce people gathering due to coronavirus / COVID-19. So it goes.)
