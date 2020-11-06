@@ -33,7 +33,7 @@ discus_identifier: # mr-brown # Add your discus identifier
 
 # Tracker
 analytics:
-gtag: UA-10336545-1 # Google Tag Manager
+gtag: G-TZC11K1VW8 # Google Tag Manager
 
 # Paginate
 paginate: 6
